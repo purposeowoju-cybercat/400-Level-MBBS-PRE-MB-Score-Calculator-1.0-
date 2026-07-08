@@ -1,3 +1,4 @@
+import streamlit as st
 #Each Pharmacology posting carries 22.5%; Seminar presentations carry 10%
 IntroA = 0.225
 IntroB = 0.225
